@@ -31,7 +31,7 @@
           "args": [
             "-fdiagnostics-color=always",
             "-g",
-            "-std=c++27",
+            "-std=c++23",
             "${workspaceFolder}\\*.cpp",
             "-o",
             "${fileDirname}\\${fileBasenameNoExtension}.exe"
